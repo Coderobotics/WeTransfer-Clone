@@ -14,4 +14,4 @@ File Sharing/ Revoke
 Download files
 
 Morw details and download link:<br>
-https://www.coderobotics.com/product/wetransfer-clone
+https://www.phpscriptsonline.com/product/wetransfer-clone
